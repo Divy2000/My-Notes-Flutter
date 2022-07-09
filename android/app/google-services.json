@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395285017055",
+    "project_id": "mynotes612",
+    "storage_bucket": "mynotes612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395285017055:android:60b2dd74125f9a3c88946a",
+        "android_client_info": {
+          "package_name": "in.hindustanit.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395285017055-k5bkffgi8nkod5resv19m2m0512u6nbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByBeCpLs9i5q3vhdcYCUJC_tyEVSABNQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395285017055-k5bkffgi8nkod5resv19m2m0512u6nbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
